@@ -1,0 +1,23 @@
+.CardHolder {
+    display: flex;
+    justify-content: space-between;
+    
+  }
+  .Cards {
+    padding:1rem;
+    margin: 1rem;
+    border:1px solid #333;
+    box-shadow: 1px 1px 3px #333;
+    background-color: rgb(228, 238, 234);
+  }
+
+.Txt{
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.content{
+  text-align: justify;
+}
+  

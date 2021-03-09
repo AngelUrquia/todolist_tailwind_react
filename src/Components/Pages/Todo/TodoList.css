@@ -1,0 +1,22 @@
+body {
+    background:rgba(188, 211, 212, 0.377) ;
+}
+
+.striked {
+    text-decoration: underline;
+}
+
+.TodoAddNew{
+    background: rgb(161, 245, 165);
+}
+
+.TodoList{
+    background: rgba(134, 208, 221, 0.548);
+    color: rgb(12, 12, 12);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5rem;
+}
+
+
+
+
